@@ -1,6 +1,8 @@
 # ATLA-Text-Mining
 Using NLP to analyze the scripts of Avatar: The Last Airbender
 
+Python | spaCy | Scikit-learn
+
 This project uses data of the scripts of Avatar found here: https://www.kaggle.com/datasets/brunovr/avatar-the-last-airbender-complete-transcript
 
 In this project, I accomplish the following:
